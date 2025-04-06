@@ -1,1 +1,1 @@
-# Grading_System_java
+The administration backend for the "Smarticulous" automated grading system.
